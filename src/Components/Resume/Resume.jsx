@@ -8,7 +8,7 @@ const Resume = () => {
         {/* <img className={styled.img} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF01H2L8h62qzU9Fykx2hig89U0Q73-EwVug&usqp=CAU" alt="cv"/> */}
         <a
           className={styled.img}
-          href="https://drive.google.com/file/d/1GSmno9-VP33A4P3KEnZl057B1oZVyhN9/view?usp=share_link"
+          href="https://drive.google.com/file/d/1GpRYy_rpIghHO6DWX901Pwbh6TrJcaNh/view?usp=sharing"
           download
         >
           <button className={styled.btn}>See My Resume</button>
