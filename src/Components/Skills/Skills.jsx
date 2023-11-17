@@ -25,7 +25,7 @@ const Skills = () => {
 
         <div className={styled.size}>
           <FaNode className={styled.color} />
-          <h3 className={styled.mid}>Nextjs</h3>
+          <h3 className={styled.mid}>Node.js</h3>
         </div>
         <div className={styled.size}>
           <AiOutlineHtml5 className={styled.color} />
