@@ -46,7 +46,7 @@ const Contact = () => {
         <span style={{ color: "orange" }}>Mail </span>
         <a href="mailto:miftahulislam138@gmail.com"> miftahulislam138@gmail.com</a> <br />
         <span style={{ color: "orange" }}> Contact</span>{" "}
-        <a href="tel:7070476900"> 7631451654</a>
+        <a href="tel:7631451654"> 7631451654</a>
       </div>
       <br />
     </div>
