@@ -11,7 +11,7 @@ const Resume = () => {
           href="https://drive.google.com/file/d/1j3bYvxGK_N8WkleX0veQarH7JSwrpeuY/view?usp=sharing"
           download
         >
-          <button className={styled.btn}>See My Resume</button>
+          <button className={styled.btn}>See Resume</button>
         </a>
       </div>
     </div>
